@@ -1,10 +1,10 @@
 app_name = "erpnext_hn"
 app_title = "ERPNext HN"
-app_publisher = "Tu Nombre o Empresa"
+app_publisher = "jgduron"
 app_description = "Localización Hondureña para ERPNext"
 app_icon = "octicon octicon-globe"
 app_color = "blue"
-app_email = "soporte@ejemplo.com"
+app_email = "jgduron@gmail.com"
 app_license = "MIT"
 
 # Incluye JS personalizado para doctypes específicos
